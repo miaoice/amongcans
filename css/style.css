@@ -14,7 +14,7 @@ nav a {
     margin: 0 1rem;
     text-decoration: none;
 }
-nav li {
+li {
     display: inline;
     float: right;
     list-style-type:none;
