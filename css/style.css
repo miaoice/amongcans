@@ -64,3 +64,18 @@ button {
 button:hover {
     background-color: #555;
 }
+
+.footer {
+  background-color: #010101;
+  color: #FFFFFF;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+div a {
+    color: #e00fff;
+    text-decoration: none;
+}
