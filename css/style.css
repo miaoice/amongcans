@@ -7,7 +7,7 @@ body {
 /* 桌面设备 */
 @media screen and (min-width: 768px) {
   body {
-    background-image: url("../resource/background-computer.jpg");
+    background-image: url("../resource/background.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -17,7 +17,7 @@ body {
 /* 移动设备 */
 @media screen and (max-width: 767px) {
   body {
-    background-image: url("../resource/background-moblie.jpg");
+    background-image: url("../resource/background2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
