@@ -3,6 +3,27 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* 桌面设备 */
+@media screen and (min-width: 768px) {
+  body {
+    background-image: url("../resource/background-computer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+}
+
+/* 移动设备 */
+@media screen and (max-width: 767px) {
+  body {
+    background-image: url("../resource/background-moblie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+}
+
 nav {
     background-color: #333;
     color: white;
@@ -12,6 +33,7 @@ nav {
 }
 nav a {
     color: white;
+    text-decoration: none;
 }
 .container {
     display: flex;
