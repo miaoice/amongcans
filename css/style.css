@@ -2,31 +2,34 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('../resource/background2.jpeg');
+    background-size: cover;
 }
 
-/* 默认背景样式 */
+/* 默认背景样式 
 body {
-    background-image: url('./resource/background.jpeg');/* 默认背景 */
+    background-image: url('./resource/background.jpeg');/* 默认背景 
     background-size: cover;
 
 }
+*/
 
-/* 电脑端样式 */
+/* 电脑端样式 
 @media (min-width: 768px) {
     body {
-        background-image: url('./resource/background.jpeg'); /* 电脑端背景图片 */
+        background-image: url('./resource/background.jpeg'); /* 电脑端背景图片 
         background-size: cover;
     }
 }
 
-/* 手机端样式 */
+/* 手机端样式 
 @media (max-width: 767px) {
     body {
-        background-image: url('./resource/background2.jpeg'); /* 手机端背景图片 */
+        background-image: url('./resource/background2.jpeg'); /* 手机端背景图片 
         background-size: cover;
     }
 }
-
+*/
   
 
 nav {
