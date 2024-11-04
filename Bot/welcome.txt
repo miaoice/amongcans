@@ -1,3 +1,4 @@
+Times:$读 time.txt %QQ% 0$
 ﹍﹍﹍﹍🎉欢迎入群🎉﹍﹍﹍﹍
 ┌─────────────────────┐
 ├AmongCans group version: 
